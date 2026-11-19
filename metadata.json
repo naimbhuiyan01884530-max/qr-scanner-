@@ -1,0 +1,6 @@
+{
+  "name": "QRLens",
+  "description": "Fast 100% offline QR code and barcode scanner, smart decoder, local vault history with bookmarks & CSV/JSON export, and custom QR/Code-128 generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
